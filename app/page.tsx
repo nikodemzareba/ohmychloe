@@ -84,7 +84,7 @@ export default async function Page() {
           </div>
           <div className="p-4 space-y-4 rounded-b-lg flexborder-b bg-gray-50">
             <h4 className="font-semibold text-left">My Links</h4>
-            <a href="https://beb2.short.gy/Lw4KQc">
+            <a href="https://beb2.short.gy/pzJ6BE">
               <button
                 className={`z-10 w-full py-3 mt-4 font-medium tracking-wide text-white transform shadow  bg-sky-500 rounded-lg hover:-translate-y-0.5 duration-150 hover:shadow-xl`}>
                 OnlyFans
